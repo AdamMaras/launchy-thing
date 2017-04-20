@@ -1,0 +1,15 @@
+{
+    "name": "launchy-thing",
+    "version": "0.1.0",
+    "description": "Electron app that launches a thing",
+    "private": true,
+    "author": "Adam Maras <adam@mar.as>",
+    "license": "BSD-2-Clause",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^1.6.5"
+    }
+}
